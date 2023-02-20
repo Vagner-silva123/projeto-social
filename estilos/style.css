@@ -15,6 +15,10 @@ body{
     background-size: cover;
     background-attachment: fixed;
 }
+::-webkit-scrollbar{
+    width: 0px;
+    height: 0px;
+}
 main{
     height: 100vh;
     position: relative;
